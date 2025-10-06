@@ -1,0 +1,2 @@
+run_ts_utc,exchange,timeframe,candle_limit,score_hi,score_lo,symbol,price,score,signal,acc,cumret%,BUYs,SELLs,HOLDs
+2025-09-27 22:43:37.189049+00:00,binance,1m,700,0.01,-0.01,BTC/USDT,109649.71,-0.3050355929436879,SELL,0.37777777777777777,-27.57462532474483,343,288,69
